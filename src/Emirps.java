@@ -8,8 +8,7 @@ public class Emirps {
 
     public static void main(String[] args) {
 
-        
-
+        System.out.println("HEY");
     }
 
     public static long[] findEmirp(long n){
