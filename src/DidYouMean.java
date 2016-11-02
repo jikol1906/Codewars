@@ -8,10 +8,7 @@ public class DidYouMean {
     public static void main(String[] args) {
 
 
-        System.out.println("fkk".matches("[a-z]+"));
-
-
-
+        System.out.println("Hej");
 
     }
 

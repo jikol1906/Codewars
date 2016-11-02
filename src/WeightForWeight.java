@@ -9,7 +9,7 @@ public class WeightForWeight {
 
     public static void main(String[] args) {
 
-        String numbers = "2000 10003 1234000 44444444 9999 11 11 22 123";
+        String numbers = "2000 10003 1234000 43444444 9999 11 11 22 123";
 
         System.out.println(orderWeight(numbers));
 
