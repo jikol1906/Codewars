@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3cc70ba5-972d-4d37-b611-af6b99c5b683" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DidYouMean.java" afterPath="$PROJECT_DIR$/src/DidYouMean.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GapInPrimes.java" afterPath="$PROJECT_DIR$/src/GapInPrimes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WeightForWeight.java" afterPath="$PROJECT_DIR$/src/WeightForWeight.java" />
     </list>
     <ignored path="Codewars.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,11 +37,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Emirps.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Emirps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Emirps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DidYouMean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DidYouMean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GapInPrimes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GapInPrimes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeightForWeight.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WeightForWeight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -70,11 +103,11 @@
         <option value="$PROJECT_DIR$/src/BuildAPileOfCubes.java" />
         <option value="$PROJECT_DIR$/src/DataReverse.java" />
         <option value="$PROJECT_DIR$/src/DeadAnts.java" />
-        <option value="$PROJECT_DIR$/src/WeightForWeight.java" />
         <option value="$PROJECT_DIR$/src/DirReduction.java" />
-        <option value="$PROJECT_DIR$/src/GapInPrimes.java" />
-        <option value="$PROJECT_DIR$/src/DidYouMean.java" />
         <option value="$PROJECT_DIR$/src/Emirps.java" />
+        <option value="$PROJECT_DIR$/src/DidYouMean.java" />
+        <option value="$PROJECT_DIR$/src/GapInPrimes.java" />
+        <option value="$PROJECT_DIR$/src/WeightForWeight.java" />
       </list>
     </option>
   </component>
@@ -643,12 +676,12 @@
       <workItem from="1477644558255" duration="511000" />
       <workItem from="1477755772798" duration="19112000" />
       <workItem from="1478093364449" duration="2770000" />
-      <workItem from="1478097243713" duration="287000" />
+      <workItem from="1478097243713" duration="358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61653000" />
+    <option name="totallyTimeSpent" value="61724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="873" extended-state="6" />
@@ -865,14 +898,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WeightForWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DirReduction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -885,24 +910,8 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/AbstractSequentialList.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/List.java" />
-    <entry file="file://$PROJECT_DIR$/src/GapInPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/DidYouMean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java" />
     <entry file="file://$PROJECT_DIR$/src/DataReverse.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -918,6 +927,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DidYouMean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GapInPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WeightForWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
           <folding />
         </state>
       </provider>
