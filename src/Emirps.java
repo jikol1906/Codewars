@@ -8,7 +8,7 @@ public class Emirps {
 
     public static void main(String[] args) {
 
-        System.out.println(Arrays.toString(findEmirp(100)));
+        System.out.println("HEY");
 
     }
 
